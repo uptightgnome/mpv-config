@@ -1,0 +1,2 @@
+start=690.083000
+vf=@autocrop-crop:lavfi-crop=w=1920:h=816:x=0:y=132,@autocrop2-crop:lavfi-crop=w=1920:h=816:x=0:y=132
